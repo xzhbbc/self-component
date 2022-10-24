@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+*.log
+.idea
+.vscode
+/dev
+/dist
+/esm
+/lib
+/output
+.history
+yarn-error.log
+.emp-cache
+doc-site
+.umi
